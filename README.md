@@ -28,6 +28,7 @@ LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF.
 `brew install libreoffice`
 
 **Windows**
+
 Téléchargez et installez LibreOffice à partir de https://fr.libreoffice.org/download/telecharger-libreoffice/.
 
 Étape 2 : Installation des Modules Python
@@ -38,7 +39,7 @@ Installez les modules Python nécessaires en utilisant pip.
 
 Étape 3 : Téléchargement et Configuration du Script
 
-Téléchargez le script : Sauvegardez le code ci-dessous dans un fichier nommé DocxPDFSwitch.py.
+Téléchargez le script : Sauvegardez le code ci-dessous dans un fichier nommé *DocxPDFSwitch.py*
 
 Étape 4 : Utilisation du Script
 
