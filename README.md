@@ -18,8 +18,8 @@ Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers P
 
 Étape 1 : Installation de Python Si Python n'est pas déjà installé, téléchargez-le et installez-le depuis le site officiel de Python. 
 
-Étape 2 : Installation de LibreOffice LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF. Installez-le en suivant les instructions pour votre système d'exploitation. Linux (Debian/Ubuntu) sudo apt-get install libreoffice
-LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF. Installez-le en suivant les instructions pour votre système d'exploitation.
+Étape 2 : Installation de LibreOffice LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF. 
+LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF. 
 
 **Linux (Debian/Ubuntu)**
 
