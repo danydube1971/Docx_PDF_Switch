@@ -4,7 +4,7 @@ Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers P
 
 ![Docx_PDF_Switch](https://github.com/danydube1971/Docx_PDF_Switch/assets/74633244/7a5f58ad-4095-4e47-b542-cb74d1d217cb)
 
-*Testé dans Linux Minte 21.3*
+*Testé dans Linux Mint 21.3*
 
 # Prérequis
 
