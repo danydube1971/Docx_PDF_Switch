@@ -1,11 +1,10 @@
 # Docx_PDF_Switch
 
-Guide d'installation et d'utilisation du script de conversion Docx_PDF_Switch
-Introduction
-Ce guide est conçu pour aider les débutants à installer et utiliser un script Python permettant de convertir des fichiers DOCX en PDF et des fichiers PDF en DOCX à l'aide d'une interface graphique simple.
+Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers PDF en DOCX à l'aide d'une interface graphique simple.
 
 ![Docx_PDF_Switch](https://github.com/danydube1971/Docx_PDF_Switch/assets/74633244/7a5f58ad-4095-4e47-b542-cb74d1d217cb)
 
+*Testé dans Linux Minte 21.3*
 
 # Prérequis
 
