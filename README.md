@@ -8,9 +8,11 @@ Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers P
 
 # Prérequis
 
-Python 3.11 (ou une version compatible) : Assurez-vous que Python est installé sur votre système. 
+**Python 3.11 (ou une version compatible) :** Assurez-vous que Python est installé sur votre système. 
 
-LibreOffice : Utilisé pour la conversion DOCX en PDF. Modules Python : tkinter, subprocess, pdf2docx, pypandoc. 
+**LibreOffice :** Utilisé pour la conversion DOCX en PDF. 
+
+**Modules Python :** tkinter, subprocess, pdf2docx, pypandoc. 
 
 # Installation
 
@@ -41,8 +43,10 @@ Installez les modules Python nécessaires en utilisant pip.
 Téléchargez le script : Sauvegardez le code ci-dessous dans un fichier nommé DocxPDFSwitch.py.
 
 Étape 5 : Utilisation du Script
-  Exécution du Script : Ouvrez un terminal (ou une invite de commande) et exécutez le script avec la commande suivante :
-python DocxPDFSwitch.py    
+
+Exécution du Script : Ouvrez un terminal (ou une invite de commande) et exécutez le script avec la commande suivante :
+
+*python DocxPDFSwitch.py*
     
    Interface Graphique : Une fenêtre s'ouvre avec deux boutons principaux :
        
