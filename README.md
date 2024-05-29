@@ -1,6 +1,6 @@
 # Docx_PDF_Switch
 
-Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers PDF en DOCX à l'aide d'une interface graphique simple.
+Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers PDF en DOCX en lots à l'aide d'une interface graphique simple.
 
 ![Docx_PDF_Switch](https://github.com/danydube1971/Docx_PDF_Switch/assets/74633244/7a5f58ad-4095-4e47-b542-cb74d1d217cb)
 
