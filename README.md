@@ -1,4 +1,4 @@
-# Docx_PDF_Switch
+# Docx PDF Switch 1.0
 
 Script Python permettant de convertir des fichiers DOCX en PDF et des fichiers PDF en DOCX en lots à l'aide d'une interface graphique simple.
 
@@ -21,7 +21,9 @@ LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF.
 
 **Linux (Debian/Ubuntu)**
 
-`sudo apt-get install libreoffice`
+```
+sudo apt-get install libreoffice
+```
 
 **MacOS (via Homebrew)**
 
@@ -31,7 +33,9 @@ LibreOffice est nécessaire pour convertir des fichiers DOCX en PDF.
 
 Installez les modules Python nécessaires en utilisant pip.
 
-`pip install pdf2docx pypandoc`
+```
+pip install pdf2docx pypandoc
+```
 
 Étape 3 : Téléchargement et Configuration du Script
 
@@ -41,7 +45,9 @@ Téléchargez le script : Sauvegardez le code ci-dessous dans un fichier nommé 
 
 Exécution du Script : Ouvrez un terminal (ou une invite de commande) et exécutez le script avec la commande suivante :
 
-`python DocxPDFSwitch.py`
+```
+python DocxPDFSwitch.py
+```
     
    Interface Graphique : Une fenêtre s'ouvre avec deux boutons principaux :
        
